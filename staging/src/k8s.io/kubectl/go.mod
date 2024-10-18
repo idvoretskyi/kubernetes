@@ -9,7 +9,7 @@ require (
 	github.com/chai2010/gettext-go v0.0.0-20160711120539-c6fed771bfd5
 	github.com/davecgh/go-spew v1.1.1
 	github.com/daviddengcn/go-colortext v0.0.0-20160507010035-511bcaf42ccd
-	github.com/docker/distribution v2.7.1+incompatible
+	github.com/docker/distribution v2.8.2+incompatible
 	github.com/evanphx/json-patch v4.11.0+incompatible
 	github.com/exponent-io/jsonpath v0.0.0-20151013193312-d6023ce2651d
 	github.com/fatih/camelcase v1.0.0
@@ -25,11 +25,11 @@ require (
 	github.com/onsi/ginkgo v1.14.0
 	github.com/onsi/gomega v1.10.1
 	github.com/opencontainers/go-digest v1.0.0 // indirect
-	github.com/russross/blackfriday v1.5.2
+	github.com/russross/blackfriday v1.6.0
 	github.com/spf13/cobra v1.1.3
 	github.com/spf13/pflag v1.0.5
 	github.com/stretchr/testify v1.7.0
-	golang.org/x/sys v0.0.0-20210616094352-59db8d763f22
+	golang.org/x/sys v0.1.0
 	gopkg.in/yaml.v2 v2.4.0
 	k8s.io/api v0.0.0
 	k8s.io/apimachinery v0.0.0
